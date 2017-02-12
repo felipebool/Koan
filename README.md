@@ -1,4 +1,4 @@
-[[https://github.com/felipebool/Koan/blob/master/koan.png|alt=KoanProject]]
+![[https://github.com/felipebool/Koan/blob/master/koan.png|alt=KoanProject]]
 
 # The idea behind this project
 There are lots of PHP frameworks. Although they implement their features in
