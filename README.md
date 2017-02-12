@@ -8,7 +8,7 @@ architectural decisions and structural organization.
 This project is for me a way to be a better programmer. Understanding how
 frameworks are organized, how they solve problems and how is the mindset
 of a framework author may ease my life when having to deal with a project
-using a unknown framework.
+using an unknown framework.
 
 The master plan is to end up with a package in packagist, let's see if this
 is going to work.
